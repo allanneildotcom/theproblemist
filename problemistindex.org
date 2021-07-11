@@ -1,0 +1,9 @@
+#+TITLE: theproblem.ist
+#+DESCRIPTION:  Allan's Home Page
+  #+AUTHOR: Allan Neil
+  #+EXPORT_FILE_NAME: index.html
+  #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+  #+OPTIONS: num:nil
+
+* Welcome to theProblem.ist
+    One of my hobbies is playing and studying Chess.  In Chess, a Problemist is one who studies chess problems.  This made me think what if we took this same approach to studying business problems?  My personal domain of business expertise is B2B (business-to-business) software product management, so most of my examples will be in this area, but I hope to share here techniques and approaches which can be applied to any area of investigation.
